@@ -12,11 +12,18 @@ FullStack Developer
   * Other: Git, SVN, Jira, Trello, Docker, Jenkins, Jestjs, Jasmine,Selenium, GCP, AWS, Firebase, Three.js
 <table>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/bitcoin-1824299-1545921.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/ethereum-3521413-2944857.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-64/react-3030235.png" width="100">
+    </td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-64/angular-226066.png" width="100">
+    </td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100">
+    </td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-3772263-3151389.png" width="100">
+    </td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/shopify-3521705-2945149.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
