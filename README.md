@@ -1,14 +1,15 @@
-##I am a Fullstack Developer
-I have <strong>5</strong>years of experience with fullstack development and I am very flexible on your requirements and can satisfy any complex requirements. 
-I have excellent communication skill with dear clients, and I want to keep a long-term friendship with you.
-I am putting my everything into success.
-##My Skills
-Front-End: React.js, Angular, Vue.js, Svelte
-Back-End: NodeJS/ExpressJS, Django, Laravel, Nestjs
-Mobile:React Native, Flutter
-Database Programming: MySQL, MongoDB, PostgreSQL, MS SQL, SQLite 
-BlockChain: Bitcoin, Ethereum, Ethereum 2.0, Solidity, ERC(BEP)20/721/1155, Stable Coin, Binance, UniSwap(SushiSwap), Staking Pool, Mining Pool, Dapp, Web3.js, Ether.js
-Other: Git, SVN, Jira, Trello, Docker, Jenkins, Jestjs, Jasmine,Selenium, GCP, AWS, Firebase, Three.js
+FullStack Developer
+==========================
+  I have 5 years of experience with fullstack development and I am very flexible on your requirements and can satisfy any complex requirements. 
+  I have excellent communication skill with dear clients, and I want to keep a long-term friendship with you.
+  I am putting my everything into success.
+## My Skills
+  * Front-End: React.js, Angular, Vue.js, Svelte
+  * Back-End: NodeJS/ExpressJS, Django, Laravel, Nestjs
+  * Mobile:React Native, Flutter
+  * Database Programming: MySQL, MongoDB, PostgreSQL, MS SQL, SQLite 
+  * BlockChain: Bitcoin, Ethereum, Ethereum 2.0, Solidity, ERC(BEP)20/721/1155, Stable Coin, Binance, UniSwap(SushiSwap), Staking Pool, Mining Pool, Dapp, Web3.js, Ether.js
+  * Other: Git, SVN, Jira, Trello, Docker, Jenkins, Jestjs, Jasmine,Selenium, GCP, AWS, Firebase, Three.js
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/bitcoin-1824299-1545921.png" width="100"></td>
