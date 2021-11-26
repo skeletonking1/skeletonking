@@ -12,32 +12,23 @@ FullStack Developer
   * Other: Git, SVN, Jira, Trello, Docker, Jenkins, Jestjs, Jasmine,Selenium, GCP, AWS, Firebase, Three.js
 <table>
   <tr>
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-64/react-3030235.png" width="100">
-    </td>
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-64/angular-226066.png" width="100">
-    </td>
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100">
-    </td>
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-3772263-3151389.png" width="100">
-    </td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/shopify-3521705-2945149.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3772319-3151445.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-226066.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-3772263-3151389.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/express-9-1175170.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/djangoproject-2752208-2285025.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-2038872-1720085.png" width="100"></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/nest-7-282263.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/flutter-3772085-3151178.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/ionic-4-1175016.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-3521676-2945120.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-1869025-1583149.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-3629020-3030245.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/bitcoin-2324014-2150500.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/ethereum-coin-2024438-1710591.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/git-17-1175218.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/amazon-aws-3521268-2944772.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/firebase-3628772-3030134.png" width="100"></td>
   </tr>
   </table>
