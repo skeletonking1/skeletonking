@@ -16,7 +16,7 @@ FullStack Developer
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-226066.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-3772263-3151389.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/express-9-1175170.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-3628999-3030224.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/djangoproject-2752208-2285025.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-2038872-1720085.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/jasmine-17-1175015.png" width="100"></td>
@@ -31,7 +31,7 @@ FullStack Developer
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/bitcoin-2324014-2150500.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/ethereum-coin-2024438-1710591.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/git-17-1175218.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/amazon-aws-3521268-2944772.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-282739.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/firebase-3628772-3030134.png" width="100"></td>
   </tr>
   </table>
