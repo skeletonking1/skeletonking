@@ -19,6 +19,9 @@ FullStack Developer
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/express-9-1175170.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/djangoproject-2752208-2285025.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-2038872-1720085.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/jasmine-17-1175015.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/docker-226091.png" width="100"></td>
+    
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/nest-7-282263.png" width="100"></td>
