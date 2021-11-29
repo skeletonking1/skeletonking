@@ -5,10 +5,7 @@
 </p>
 With 8+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
-  I have 5 years of experience with fullstack development and I am very flexible on your requirements and can satisfy any complex requirements. 
-  I have excellent communication skill with dear clients, and I want to keep a long-term friendship with you.
-  I am putting my everything into success.
-## My Skills
+ ## My Skills
   * Front-End: React.js, Angular, Vue.js, Svelte
   * Back-End: NodeJS/ExpressJS, Django, Laravel, Nestjs
   * Mobile:React Native, Flutter
